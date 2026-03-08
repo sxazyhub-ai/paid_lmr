@@ -14,7 +14,7 @@ Player.Idled:Connect(preventAFK)
 
 
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/OMEGADEZZ/libreria-hz/refs/heads/main/libreria", true))()
+local library = loadstring(game:HttpGet("loadstring(game:HttpGet(https://raw .githubusercontent.com/sxazyhub-ai/paid_lmr/refs/heads/main/LMR.lua", true))()
 
 local window = library:AddWindow("LMR HUB | PAID Ultra Premiun / By L3G4CY", {
     main_color = Color3.fromRGB(255, 119, 0),
